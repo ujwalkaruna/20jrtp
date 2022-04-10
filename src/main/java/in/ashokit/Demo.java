@@ -10,6 +10,7 @@ public class Demo {
 		System.out.println(encodedTxt);
 		String decodedTxt = PasswordService.decode(encodedTxt);
 		System.out.println(decodedTxt);
+int x=20;
 	}
 
 }
